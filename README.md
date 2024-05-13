@@ -65,14 +65,13 @@ This comprehensive dataset provides a rich source of information for analyzing e
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Dashborad Overview:
+![Screenshot 2024-05-13 095723](https://github.com/user-saddam123/HR-Analytics-Dashboard-Style_02/assets/123800896/8d5328ba-d4a1-402a-a413-8dec73c295b2)
 
 
 ✨➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖✨
 
 ## Detailed Insights Explanation:
 ### Key Performance Indicators (KPIs):
-
-![Uploading Screenshot 2024-05-13 095723.jpg…]()
 
  * Total Employees: 2925
  * Total Attrition: 491 employees (16.8% of total)
